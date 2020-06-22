@@ -18,6 +18,7 @@ public class CreateAccountTest {
 		zp.gotoCRM();
 		AccountsPage ap = Page.menu.gotoAccounts();
 		CreateAccountPage cap = ap.gotoCreateAccount();
-		cap.CreateAccount(data.get("accountname"));			
+		cap.CreateAccount(data.get("accountname"));		
+		System.out.println("Logged in successfully");
 	}
 }

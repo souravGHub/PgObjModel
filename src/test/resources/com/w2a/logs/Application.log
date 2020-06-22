@@ -1,18 +1,2 @@
-22/06/2020 12:51:53 devpinoyLogger Conf File Loaded
-22/06/2020 12:51:53 devpinoyLogger OR File Loaded
-22/06/2020 12:52:20 devpinoyLogger Navigated to https://www.zoho.com/
-22/06/2020 12:52:22 devpinoyLogger ROWS :2 COLS: 3
-22/06/2020 12:52:24 devpinoyLogger Clicking on elementloginlink_XPATH
-22/06/2020 12:52:24 devpinoyLogger Typing in element:userid_XPATH Value:sourav2u06@gmail.com
-22/06/2020 12:52:24 devpinoyLogger Clicking on elementsigninButton_XPATH
-22/06/2020 12:52:24 devpinoyLogger Typing in element:password_XPATH Value:1qaz!QAZ_1
-22/06/2020 12:52:28 devpinoyLogger Clicking on elementsigninButton_XPATH
-22/06/2020 12:52:29 devpinoyLogger ROWS :2 COLS: 2
-22/06/2020 12:52:35 devpinoyLogger Clicking on elementcrmIcon_XPATH
-22/06/2020 12:52:36 devpinoyLogger Clicking on elementaccountsMenu_XPATH
-22/06/2020 12:52:37 devpinoyLogger Clicking on elementcreateaccIcon_CSS
-22/06/2020 12:52:39 devpinoyLogger Clicking on elementcreateaccIconsub_CSS
-22/06/2020 12:52:39 devpinoyLogger Typing in element:accountName_CSS Value:Sharmee
-22/06/2020 12:52:39 devpinoyLogger Typing in element:phoneNum_CSS Value:(111)-111-2222
-22/06/2020 12:52:40 devpinoyLogger Clicking on elementratingSelect_XPATH
-22/06/2020 12:52:41 devpinoyLogger Clicking on elementratingValue_XPATH
+22/06/2020 13:10:16 devpinoyLogger Conf File Loaded
+22/06/2020 13:10:16 devpinoyLogger OR File Loaded

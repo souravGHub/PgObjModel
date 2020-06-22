@@ -1,0 +1,9 @@
+20/06/2020 17:49:37 devpinoyLogger Conf File Loaded
+20/06/2020 17:49:37 devpinoyLogger OR File Loaded
+20/06/2020 17:49:37 devpinoyLogger Chrome Launched
+20/06/2020 17:49:42 devpinoyLogger Navigated to https://www.zoho.com/
+20/06/2020 17:49:43 devpinoyLogger ROWS :2 COLS: 3
+20/06/2020 17:49:44 devpinoyLogger Clicking on elementloginlink_XPATH
+20/06/2020 17:49:45 devpinoyLogger Typing in element:userid_XPATH Value:sourav2u06@gmail.com
+20/06/2020 17:49:45 devpinoyLogger Clicking on elementsigninButton_XPATH
+20/06/2020 17:49:54 devpinoyLogger ROWS :2 COLS: 2

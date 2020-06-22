@@ -1,0 +1,19 @@
+17:49:37,521 DEBUG devpinoyLogger:71 - Conf File Loaded
+17:49:37,526 DEBUG devpinoyLogger:84 - OR File Loaded
+17:49:37,527 DEBUG devpinoyLogger:108 - Chrome Launched
+17:49:42,342 DEBUG devpinoyLogger:125 - Navigated to https://www.zoho.com/
+17:49:43,763 DEBUG devpinoyLogger:32 - ROWS :2 COLS: 3
+17:49:44,916 DEBUG devpinoyLogger:142 - Clicking on elementloginlink_XPATH
+17:49:45,280 DEBUG devpinoyLogger:153 - Typing in element:userid_XPATH Value:sourav2u06@gmail.com
+17:49:45,386 DEBUG devpinoyLogger:142 - Clicking on elementsigninButton_XPATH
+17:49:54,339 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:49:54,343 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:49:54,348 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:49:54,350 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:49:54,351 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+17:49:54,863 DEBUG devpinoyLogger:32 - ROWS :2 COLS: 2
+17:50:05,386 DEBUG cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+17:50:05,387 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+17:50:05,388 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+17:50:05,389 DEBUG cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+17:50:05,389 DEBUG cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/master8/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

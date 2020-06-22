@@ -6,6 +6,7 @@ public class LoginPage extends Page {
 		click("signinButton_XPATH");
 		type("password_XPATH", password);
 		click("signinButton_XPATH");
+		System.out.println("Logged in successfully");
 		return new ZohoAppPage();
 	}
 }

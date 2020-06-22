@@ -12,5 +12,6 @@ public class LoginTest extends BaseTest{
 		HomePage hp = new HomePage();
 		LoginPage lp = hp.gotoLogin();
 		lp.doLogin(data.get("username"), data.get("password"));
+		
 	}
 }

@@ -19,6 +19,5 @@ public class CreateAccountTest {
 		AccountsPage ap = Page.menu.gotoAccounts();
 		CreateAccountPage cap = ap.gotoCreateAccount();
 		cap.CreateAccount(data.get("accountname"));		
-		System.out.println("Logged in successfully");
-	}
+		}
 }
